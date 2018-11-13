@@ -66,8 +66,12 @@
   console.log ( hammondsMines.buenosAires.annualBudget[1]);
   hammondsMines.Nicaragua = Nicaragua;
   hammondsMines.buenosAires.specimens;
-  var annualCost = [] 
-
+  var vOne = [nicaragua.annualBudget]; 
+  var vTwo =[buenosAires.annualBudget];
+  var vThree =[mexico.annualBudget];
+  variable = nicaragua.annualBudget + buenosAires.annualBudget + mexico.annualBudget;
+  
+  console.log(hammondsMines.mexico[0]);
 
 
     
