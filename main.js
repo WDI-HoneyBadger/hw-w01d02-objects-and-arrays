@@ -81,7 +81,8 @@ console.log(hammondsBudgetBuenosAiries);
 console.log(hammondsMines.buenosAires.specimens);
 
 //6:3
-hammondsMines->nicaragua = nicaragua;
+hammondsMines['nicaragua'] = nicaragua;
+console.log(hammondsMines);
 
 //7:3
 var buenosAiresAnnualBudget = hammondsMines.buenosAires.annualBudget;
