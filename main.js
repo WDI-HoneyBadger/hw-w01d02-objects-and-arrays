@@ -1,5 +1,5 @@
 
-//PART 1
+// PART 1
 snakewaterMontana = {
     paleontologist: "Dr. Alan Grant",
     depth: "10 meters",
@@ -9,7 +9,7 @@ snakewaterMontana = {
   var guestOfHonor = "Dr. Alan Grant";
   var cleverGirl = snakewaterMontana.specimen;
 
-//PART2
+// PART 2
 
   nicaragua = {
     depth: "200 meters",
@@ -26,7 +26,7 @@ snakewaterMontana = {
   var favoriteSpecimen = "Tyrannosaurus Rex";
   nicaragua.annualBudget = 250000 ;
 
-  //PART 3
+  // PART 3
 
   hammondsMines = {
     buenosAires: {
