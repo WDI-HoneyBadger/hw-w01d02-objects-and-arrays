@@ -5,7 +5,7 @@ snakewaterMontana = {
     specimen: "Velociraptor"
 }
   // 1
-  var guestOfHonor = snakewaterMontana.name;
+  var guestOfHonor = snakewaterMontana.paleontologist;
   // 2
   var cleverGirl = snakewaterMontana.specimen;
   console.log(cleverGirl);
