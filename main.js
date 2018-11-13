@@ -1,14 +1,16 @@
-
+// Part 1
 var snakewaterMontana = {
     paleontologist: "Dr. Alan Grant",
     depth: "10 meters",
     specimen: "Velociraptor"
   };
+
 // Part 1.1
 var guestOfHonor = snakewaterMontana.paleontologist;
 // Part 1.2
 var cleverGirl = snakewaterMontana.specimen;
   
+// part 2
 var nicaragua = {
         depth: "200 meters",
         annualBudget: 1500000,
@@ -19,6 +21,7 @@ var nicaragua = {
         "Velociraptor"
         ]
     };
+
 // Part 2.1
 var nicaraguanSpecimens = nicaragua.specimens;
 
@@ -28,6 +31,7 @@ var favoriteSpecimen = nicaraguanSpecimens[2];
 // Part 2.3
 nicaragua.annualBudget = nicaragua.annualBudget + 250000;
 
+// Part 3
 var hammondsMines = {
     buenosAires: {
       depth: "400 meters",
@@ -45,7 +49,8 @@ var hammondsMines = {
         "Parasaurolophus"
       ]
     }
-  }
+  };
+
   // Part 3.1
   hammondsMines.mexico.depth;
 
